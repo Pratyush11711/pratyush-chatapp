@@ -20,7 +20,7 @@ const {authUser}=useAuthContext();
 
  <Toaster/>
 </div>
- <div className="text-center absolute bottom-0 mx-auto w-full bg-black font-bold ">Made By Pratyush</div>
+
 </>
   )
 }
